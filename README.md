@@ -25,10 +25,15 @@ Untuk tampilan memang belum saya sempurnakan, kenapa ? karena agar client yang t
 #### kamu dapat melihat demo dari aplikasi ini di sini. 
 ==>> http://demo.php-cms.unaux.com/
 
-### contact me 
+### user login : 
+> - username : admin
+> - password : admin
+
+### contact me
 
 - email : ibnukholil004@gmail.com
 - no.hp/wa : 0823-7313-5287
+
 
 
 # Terima Kasih

@@ -1,0 +1,106 @@
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
+
+#header {
+    height: 120px;
+    background: #2980b9;
+    margin-bottom : 10px;
+    
+}
+
+#footer {
+    padding: 10px;
+    background: #2980b9;
+    color: white;
+}
+
+/* navbar Custom */
+.navbar-custom {
+    background-color: #2980b9;
+    color:  #ffff;
+    border-radius: 0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #FFF;
+    background-color: transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open > a {
+    text-decoration: none;
+    background-color: #3498db;
+}
+
+.navbar-custom .navbar-brand {
+    color: #eeeeee;
+} 
+
+.navbar-custom .navbar-brand {
+    background-color: #3498db;
+}
+/* end custom navbar */
+
+/* custom panel */
+
+.panel {
+    border-radius: 0px;
+}
+
+.panel-heading {
+    border-radius: 0px;
+}
+/* end custom panel */
+
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li a {
+    display: block;
+    list-style: none;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    margin: 2px;
+    padding: 10px;
+}
+
+.menu ul li a:hover{
+    background: #ff6600;
+    color: #000;
+}
+
+.content {
+    padding: 10px;
+}
+
+.content h3 {
+    display: block;
+    border-bottom: 1px solid #000;
+    margin-top: 0;
+    padding-bottom: 5px;
+}
+
+.content label {
+    display: block;
+    float: left;
+    width: 160px;
+}
+
+.content form {
+    border: 1px solid #ebebeb;
+    line-height: 200%;
+    padding: 10px;
+}
